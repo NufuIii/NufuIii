@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
- $${\color{purple}Hard{}}$$
-</p>
-
-<p align="center">
 ☆ ★ ✮ ★ ☆ ★ ✮ ★ ☆ ★ ✮ ★ ☆
   </p> 
 
