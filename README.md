@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
- $${\color{white}The Term, Just Keep Swimming{}}$$
+ $${\color{white}I wasn't meant to be a{}}$$
 </p>
 
 <p align="center">
- $${\color{white}Doesn't Always{}}$$
-</p>
-
-<p align="center">
- $${\color{blue}Work{}}$$
+ $${\color{blue}Trainer{}}$$
 </p>
 
 <p align="center">
