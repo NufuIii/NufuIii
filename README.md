@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- $${\color{white}I wasn't meant to be a{}}$$
+ $${\color{white}I Wasn't Meant To Be A{}}$$
 </p>
 
 <p align="center">
