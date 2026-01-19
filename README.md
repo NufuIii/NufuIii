@@ -44,7 +44,7 @@
 
   <p align="center">
   <b> ᴍᴀɪɴ ɢɪᴛʜᴜʙ <br>
-  <a href= "https://azresash.atabook.org"> ᴀᴢʀᴇꜱᴀꜱʜ </a> ×
+  <a href= "https://azresash.atabook.org"> ᴀᴢʀᴇꜱᴀꜱʜ </a>
 
 <p align="center">
   <b> ʟɪɴᴋꜱ <br>
